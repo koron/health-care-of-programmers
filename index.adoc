@@ -1,0 +1,8 @@
+= プログラマーの健康管理: Health Care of Programmers
+MURAOKA Taro (KoRoN, @kaoriya)
+0.1版(2018/04/21)
+:source-highlighter: rouge
+//:toc: right
+:figure-caption: 図
+
+include::main.adoc[]

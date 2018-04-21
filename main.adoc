@@ -1,0 +1,13 @@
+include::pre.adoc[]
+
+<<<
+
+include::sec1.adoc[]
+
+<<<
+
+include::sec2.adoc[]
+
+include::sec3.adoc[]
+
+include::post.adoc[]
